@@ -1,7 +1,4 @@
-﻿# Livro de Receitas
-
-Olá seja bem-vindo ao meu livro de receitas
-
- - Strogonoff de Frango
- - Pudim
-
+# Livro Receitas 
+Olá seja bem vindo ao livro de receitas
+    - Strogonoff de frango
+    - Pudim de leite
